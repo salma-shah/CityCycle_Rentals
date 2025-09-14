@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary_colour">#388E3C</color>
+    <color name="secondary_colour">#8BC34A</color>
+    <color name="bg_colour">#F2F9F1</color>
+    <color name="highlight_colour">#DDEEDF</color>
+    <color name="icon_color">#DDEEDF</color>
+    <color name="grey">#808080</color>
+    <color name="stars_colour">#FFC107</color>
+
+</resources>

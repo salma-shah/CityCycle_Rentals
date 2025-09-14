@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define the pressed state (button clicked) -->
+    <item android:state_pressed="true" android:drawable="@color/secondary_colour" />
+
+    <!-- Define the default state (normal) -->
+    <item android:state_enabled="true" android:drawable="@color/primary_colour" />
+
+    <!-- Define the disabled state (when button is disabled) -->
+    <item android:state_enabled="false" android:drawable="@color/primary_colour" />
+</selector>

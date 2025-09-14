@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CityCycle_Rentals</string>
+    <string-array name="filter_bikes">
+        <item>All Bikes</item>
+        <item>City Bike</item>
+        <item>Road Bike</item>
+        <item>Mountain Bike</item>
+        <item>Electric Bike</item>
+        <item>BMX Bike</item>
+        <item>Fat Tire Bike</item>
+        <item>Premium Road Bike</item>
+        <item>Premium Mountain Bike</item>
+        <item>Premium BMX Bike</item>
+        <item>Premium Electric Bike</item>
+        <item>Children Bike</item>
+        <item>Children Electric Bike</item>
+    </string-array>
+
+    <string-array name="sort_price">
+        <item>Default Sorting</item>
+        <item>Sort by price: High - Low</item>
+        <item>Sort by price: Low - High</item>
+    </string-array>
+
+    <string-array name="rent_durations">
+        <item>Please choose your duration</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>4 hours</item>
+        <item>6 hours</item>
+        <item>1 day</item>
+        <item>1 week</item>
+        <item>10 days</item>
+    </string-array>
+
+    <string-array name="reservation_availability">
+        <item>Please choose the time for your reservation</item>
+        <item>10:00 AM - 11:00 AM </item>
+        <item>11:15 AM - 12:15 PM</item>
+        <item>12:30 PM - 02:30 PM</item>
+        <item>03:30 PM - 04:30 PM</item>
+        <item>05:45 PM - 06:45 PM </item>
+        <item>07:00 PM - 08:00 PM</item>
+        <item>09:00 PM - 11:00 PM</item>
+        <item>1 day</item>
+        <item>3 days</item>
+        <item>5 days</item>
+        <item>1 week</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
